@@ -1,6 +1,6 @@
 Readme data warehouse
 
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio proj highlights industry best practices in data engineering and analytics.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project which highlights industry best practices in data engineering and analytics.
 
 ## Project Requirements
 ### Building the Data Warehouse (Data Engineering)
@@ -36,4 +36,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## O License
 This project is licensed under the [MIT License](LICENSE).. You are free to use, modify, and share this project with proper attribution.
 ## # About Me
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I'm an IT professional and passionate YouTuber on a mission to share knowle enjoyable and engaging!
+Hi there! I'm **Iuliia Lokhva**. I'm a passionate QA Engineer and Data Analyst with 8+ years of experience in test automation, data analytics, and performance optimization. Formerly at Tesla, I’m currently a Senior Data Analyst at CVS Health.
